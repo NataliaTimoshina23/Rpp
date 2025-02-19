@@ -1,1 +1,1 @@
-# Rpp
+[![Java CI with Gradle](https://github.com/NataliaTimoshina23/Rpp/actions/workflows/gradle.yml/badge.svg)](https://github.com/NataliaTimoshina23/Rpp/actions/workflows/gradle.yml)
